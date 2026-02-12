@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ugyen Dendup
 
-🚀 Tech Entrepreneur | Founder at NoMind Labs (previously known as NoMindBhutan) & Hopeless AI | AI Builder from Bhutan 🇧🇹  
+Tech Entrepreneur | Founder at Hopeless AI & NoMind Labs (previously known as NoMindBhutan).
 
 I love doing research and development on AI products and building solutions that solve real-world problems.
 
@@ -10,9 +10,9 @@ I love doing research and development on AI products and building solutions that
 
 * 🧠 Founder at **NoMind Labs** (previously NoMindBhutan) & **Hopeless AI**
 * 🔬 Passionate about research and development in AI
-* 🤖 Building AI chatbots, automation tools & civic tech solutions
 * 🧪 Building **Hopeless AI** — a continuous self-improving AI agent that learns from real-world feedback
 * 🎙️ Working at **NoMind Labs** to build voice-first AI agents for low-resource languages
+* 🤖 Building AI chatbots, automation tools & civic tech solutions
 * 🌏 Passionate about startups, AI, and digital transformation
 * 🚀 Love turning ideas into real products
 
@@ -20,9 +20,8 @@ I love doing research and development on AI products and building solutions that
 
 ## 🔭 I’m currently working on
 
-* Continuous self-improving AI systems
-* Voice-first AI agents for local and low-resource languages
-* Scaling AI adoption through NoMind Labs
+* Continuous self-improving AI systems.
+* Voice-first AI agents for local and low-resource languages.
 
 ## 💬 Ask me about
 
@@ -77,4 +76,4 @@ I started building AI products as a student and now work with banks, government 
 
 ## 🧭 Mission
 
-> Building AI that empowers people, improves public services, and accelerates Bhutan’s digital future 🇧🇹
+> Building AI that empowers people, improves public services, and accelerates AI & digital future..
